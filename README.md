@@ -5,9 +5,6 @@
 ## Objective
 Create a user profile edit form using React.js and TypeScript, showcasing your skills in functional components, state management, form handling, validation, and Component (you should use a third party library) integration.
 
-## Platform
-Complete the challenge on Replit: [React Code Challenge](https://replit.com/@asabaylus/ReactCodeChallenge#src/App.tsx)
-
 ## Key Requirements
 
 ### React Functional Component
@@ -52,9 +49,3 @@ Complete the challenge on Replit: [React Code Challenge](https://replit.com/@asa
 - **Design Implementation**: Effective use of Ant Design components and adherence to UI/UX best practices.
 - **Problem-Solving Skills**: Ability to implement custom features and handle challenges.
 
-
-### Getting Started
-- Hit run
-- Edit [App.tsx](#src/App.tsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the [configuration file](#.replit). Here are the vite docs for [serving production websites](https://vitejs.dev/guide/build.html)
